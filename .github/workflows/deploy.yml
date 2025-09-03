@@ -42,4 +42,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ezambomsantana/stocks-ci:${{ github.sha }}
+          tags: youcancallmegus/stocks-ci:${{ github.sha }}
